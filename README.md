@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1>Hi Francisco Villalba Roldán</h1>
+<h3 align="center">A passionate FullStack Developer from Spain</h3>
 
-<!--
-**franvr13/Franvr13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://u8views.com/github/Jasusmet"><img src="https://u8views.com/api/v1/github/profiles/166473779/views/day-week-month-total-count.svg"></a>
+</div>
 
-Here are some ideas to get you started:
+- 🔭 I’m currently looking for work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning **JavaScript and Python**
+
+- 📫 How to reach me: You can write me on [linkedin](https://www.linkedin.com/in/franciscovillalbaroldán/) or by [mail](mailto:f13villalbaroldan@gmail.com)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Franvr13&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jasusmet&layout=compact&theme=radical)
