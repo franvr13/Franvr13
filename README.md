@@ -1,6 +1,6 @@
 # 🙋‍♂️ Hola, soy Fran!
 
-- 💻 Actualmente estoy buscando trabajo como programador/desarrollador.
+- 💻 Actualmente estoy buscando trabajo como programador/desarrollador web.
 - ⌨ Aquí puedes ver mi portfolio: [Francisco Villalba Roldán](https://projects-six-omega.vercel.app/)
 
 
