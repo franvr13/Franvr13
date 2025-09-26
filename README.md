@@ -1,7 +1,5 @@
 <h1 align="center"><b>Hi , I'm Francisco Villalba Roldán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" />
-
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
 - 💻 I’m currently learning ...
@@ -38,6 +36,7 @@
 
 <h2>Github stats:</h2> 
 
-[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/franvr13)
-[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/franvr13)
+![franvr13's Stats](https://github-readme-stats.vercel.app/api?username=franvr13&theme=dark&show_icons=true&hide_border=true&count_private=true)
+![franvr13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=franvr13&theme=dark&hide_border=true)
+![franvr13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franvr13&theme=dark&show_icons=true&hide_border=true&layout=compact)
 </div>
