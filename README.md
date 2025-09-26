@@ -1,23 +1,43 @@
-# 🙋‍♂️ Hola, soy Fran!
+<h1 align="center"><b>Hi , I'm Francisco Villalba Roldán </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!--  -->
+<img align="right" width=300px alt="Unicorn" src="https://tenor.com/es/view/ghostedvpn-hacker-cat-bongo-cat-keyboard-cat-hacker-gif-4373606555250453292" />
 
-- 💻 Actualmente estoy buscando trabajo como programador/desarrollador web.
-- ⌨ Aquí puedes ver mi portfolio: [Web](https://portfolio-franciscovillalbaroldan.vercel.app)
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
+- 💻 I’m currently learning ...
+  - WordPress
+  - React
+  - Next.js
+    
+- 🙋 I’m looking forward to collaborate on open source projects.
+- 📫 Reach out to me at: <a href="f13villalbaroldan@gmail.com">f13villalbaroldan@gmail.com</a>
 
-## 🌐 Redes Sociales:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franciscovillalbaroldán/)
+## My Skills Include
+<span> 
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src= "https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+</span>
 
-## 💻 Skills:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+<h4> Other Tools and Technologies </h4>
+<span>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white">
+</span>
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=franvr13&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-![](https://github-readme-stats.vercel.app/api?username=franvr13&theme=synthwave&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=franvr13&theme=synthwave&hide_border=false)<br/>
+## Check out my Social Media
+<a href= "https://www.linkedin.com/in/franciscovillalbaroldán/">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+</a>
 
-## 🔝 Top Contributed Repositories:
-![](https://github-contributor-stats.vercel.app/api?username=franvr13&limit=5&theme=synthwave&combine_all_yearly_contributions=true)
+<h2>Github stats:</h2> 
 
----
-
-[![](https://visitcount.itsvg.in/api?id=franvr13&icon=3&color=11)](https://visitcount.itsvg.in)
+[![](https://github-readme-stats.vercel.app/api?username=valentinawerle&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/franvr13)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=valentinawerle&theme=material-palenight)](https://github.com/franvr13)
+</div>
