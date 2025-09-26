@@ -31,7 +31,7 @@
 
 ## Check out my Social Media
 <a href= "https://www.linkedin.com/in/franciscovillalbaroldán/">
-    <img src="https://img.shields.io/badge/linkedin-grey?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin">
 </a>
 
 <h2>Github stats:</h2> 
