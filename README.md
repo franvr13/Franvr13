@@ -3,7 +3,7 @@
 
 ## About me
 
-I am a web developer. I am currently looking for my first job opportunity in the technology sector. In addition to working on my personal projects, I am also continuing my education to improve my skills.
+I am a web developer. I am currently looking for my first job opportunity in the technology sector. I am expanding my knowledge in both front-end and back-end development.
 - 💻 I’m currently learning ...
   - WordPress
   - React
