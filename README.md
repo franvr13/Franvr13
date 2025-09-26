@@ -30,8 +30,8 @@
 </span>
 
 ## Check out my Social Media
-<a href= "https://www.linkedin.com/in/franciscovillalbaroldán/ target=_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white">
+<a href= "https://www.linkedin.com/in/franciscovillalbaroldán/">
+    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=linkedin">
 </a>
 
 <h2>Github stats:</h2> 
