@@ -41,5 +41,3 @@ I am a web developer. I am currently looking for my first job opportunity in the
 ![franvr13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franvr13&theme=dark&show_icons=true&hide_border=true&layout=compact)</br>
 ![franvr13's Stats](https://github-readme-stats.vercel.app/api?username=franvr13&theme=dark&show_icons=true&hide_border=true&count_private=true)</br>
 ![franvr13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=franvr13&theme=dark&hide_border=true)
-
-</div>
