@@ -3,18 +3,19 @@
 
 ## About me
 
-I am a web developer. I am currently looking for my first job opportunity in the technology sector. I am expanding my knowledge in both front-end and back-end development to improve my skills.
+I am a web developer. I am currently looking for my first job opportunity in the technology sector and to develop my professional career. I am expanding my knowledge in both front-end and back-end development to continuously improve my skills.
+
 - 💻 I’m currently learning ...
-  - Vue
+  
+  - Typescript
   - React
   - Next.js
     
-- 🙋 I’m looking forward to collaborate on open source projects.
 - 📫 Reach out to me at: <a href="f13villalbaroldan@gmail.com">f13villalbaroldan@gmail.com</a>
 
 ## My Skills Include
 <span> 
-  <img src="https://img.shields.io/badge/wordpress-035FFF.svg?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img src="https://img.shields.io/badge/wordpress-rgba(56, 88, 233, 1).svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/elementor-AB03FF.svg?style=for-the-badge&logo=elementor&logoColor=white">
   <img src="https://img.shields.io/badge/woocommerce-14FF03.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -25,7 +26,7 @@ I am a web developer. I am currently looking for my first job opportunity in the
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
-<h2> Other Tools and Technologies </h2>
+<h2> Other Technologies and Tools </h2>
 <span>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
