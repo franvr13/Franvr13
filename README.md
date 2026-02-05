@@ -14,6 +14,8 @@ I am a web developer. I am currently looking for my first job opportunity in the
 - 📫 Reach out to me at: <a href="f13villalbaroldan@gmail.com">f13villalbaroldan@gmail.com</a>
 
 ## My Skills Include
+
+<h4> Languages </h4>
 <span> 
   <img src="https://img.shields.io/badge/wordpress-rgba(56, 88, 233, 1).svg?style=for-the-badge&logo=wordpress&logoColor=white">
   <img src="https://img.shields.io/badge/elementor-ED01EE.svg?style=for-the-badge&logo=elementor&logoColor=white">
@@ -25,7 +27,7 @@ I am a web developer. I am currently looking for my first job opportunity in the
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 </span>
 
-<h2> Other Technologies and Tools </h2>
+<h4> Other Technologies and Tools </h4>
 <span>
   <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
@@ -38,9 +40,3 @@ I am a web developer. I am currently looking for my first job opportunity in the
 <a href= "https://www.linkedin.com/in/franciscovillalbaroldán/">
     <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
-<h2>Github stats:</h2> 
-
-![franvr13's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=franvr13&theme=dark&show_icons=true&hide_border=true&layout=compact)</br>
-![franvr13's Stats](https://github-readme-stats.vercel.app/api?username=franvr13&theme=dark&show_icons=true&hide_border=true&count_private=true)</br>
-![franvr13's Streak](https://github-readme-streak-stats.herokuapp.com/?user=franvr13&theme=dark&hide_border=true)
