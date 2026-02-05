@@ -36,7 +36,7 @@ I am a web developer. I am currently looking for my first job opportunity in the
 
 ## Check out my Social Media
 <a href= "https://www.linkedin.com/in/franciscovillalbaroldán/">
-    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin">
+    <img src="https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 <h2>Github stats:</h2> 
