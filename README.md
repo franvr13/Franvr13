@@ -20,10 +20,10 @@ I am a web developer. I am currently looking for my first job opportunity in the
   <img src="https://img.shields.io/badge/woocommerce-873eff.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src= "https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src= "https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
+  <img src= "https://img.shields.io/badge/gsap-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
 </span>
 
 <h2> Other Technologies and Tools </h2>
