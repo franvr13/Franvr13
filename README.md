@@ -16,8 +16,8 @@ I am a web developer. I am currently looking for my first job opportunity in the
 ## My Skills Include
 <span> 
   <img src="https://img.shields.io/badge/wordpress-rgba(56, 88, 233, 1).svg?style=for-the-badge&logo=wordpress&logoColor=white">
-  <img src="https://img.shields.io/badge/elementor-AB03FF.svg?style=for-the-badge&logo=elementor&logoColor=white">
-  <img src="https://img.shields.io/badge/woocommerce-14FF03.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
+  <img src="https://img.shields.io/badge/elementor-ED01EE.svg?style=for-the-badge&logo=elementor&logoColor=white">
+  <img src="https://img.shields.io/badge/woocommerce-873eff.svg?style=for-the-badge&logo=woocommerce&logoColor=white">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img src= "https://img.shields.io/badge/tailwindcss-%230db7ed.svg?style=for-the-badge&logo=tailwindcss&logoColor=white">
